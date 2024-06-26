@@ -17,16 +17,39 @@ This is a NestJS-based simple task management and HRM API
    cd task-hrm-api
 
 2. Install dependencies:
-  npm - npm install
-  yarn - yarn
+  ```bash
+  npm install
+  ```
+
+  or yarn
+
+  ```bash
+  yarn
+  ```
 
 ## Environment Variables
+  ```bash
   cp .env.example .env
+  ```
 
 ## Running the Application
-  npm - npm run start
-  yarn - yarn start
+  ```bash
+  npm run start
+  ```
+
+  or yarn
+
+  ```bash
+  yarn start
+  ```
 
 ## Testing
-  npm - npm run test
-  yarn - yarn test
+  ```bash
+  run test
+  ```
+
+  or yarn
+
+  ```bash
+  yarn test
+  ```
