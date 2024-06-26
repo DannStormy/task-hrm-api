@@ -45,7 +45,7 @@ This is a NestJS-based simple task management and HRM API
 
 ## Testing
   ```bash
-  run test
+  npm run test
   ```
 
   or yarn
